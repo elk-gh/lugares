@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">lugares</string>
+    <string name="app_name">Places</string>
+    <string name="monserrate">Monserrate</string>
 </resources>
